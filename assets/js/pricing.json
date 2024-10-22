@@ -1,0 +1,89 @@
+{
+    "courts": {
+      "court-1": {
+        "peak": {
+          "1-person": 20,
+          "2-person": 35,
+          "3-person": 50,
+          "4-person": 65,
+          "5-person": 80,
+          "6-person": 95,
+          "7-person": 110
+        },
+        "off-peak": {
+          "1-person": 15,
+          "2-person": 30,
+          "3-person": 45,
+          "4-person": 60,
+          "5-person": 75,
+          "6-person": 90,
+          "7-person": 105
+        }
+      },
+      "court-2": {
+        "peak": {
+          "1-person": 25,
+          "2-person": 40,
+          "3-person": 55,
+          "4-person": 70,
+          "5-person": 85,
+          "6-person": 100,
+          "7-person": 115
+        },
+        "off-peak": {
+          "1-person": 20,
+          "2-person": 35,
+          "3-person": 50,
+          "4-person": 65,
+          "5-person": 80,
+          "6-person": 95,
+          "7-person": 110
+        }
+      },
+      "court-3": {
+        "peak": {
+          "1-person": 30,
+          "2-person": 45,
+          "3-person": 60,
+          "4-person": 75,
+          "5-person": 90,
+          "6-person": 105,
+          "7-person": 120
+        },
+        "off-peak": {
+          "1-person": 25,
+          "2-person": 40,
+          "3-person": 55,
+          "4-person": 70,
+          "5-person": 85,
+          "6-person": 100,
+          "7-person": 115
+        }
+      },
+      "court-4": {
+        "peak": {
+          "1-person": 35,
+          "2-person": 50,
+          "3-person": 65,
+          "4-person": 80,
+          "5-person": 95,
+          "6-person": 110,
+          "7-person": 125
+        },
+        "off-peak": {
+          "1-person": 30,
+          "2-person": 45,
+          "3-person": 60,
+          "4-person": 75,
+          "5-person": 90,
+          "6-person": 105,
+          "7-person": 120
+        }
+      }
+    },
+    "sessions": {
+      "30-min": 0.5,
+      "1-hour": 1
+    }
+  }
+  
